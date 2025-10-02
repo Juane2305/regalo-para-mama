@@ -17,7 +17,7 @@ export const giftData = {
     title: "¡Feliz Día de la Madre!",
     subtitle: "Gracias por tu amor, tu paciencia y por estar siempre.",
     bgImageMobile: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759352388/madre-e-hijos-en-el-parque_jvkcbo.jpg",
-    bgImageDesktop: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759352173/4_1_ym7bob.jpg"
+    bgImageDesktop: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759415110/Disen%CC%83o_sin_ti%CC%81tulo_sd94in.png"
   },
   photos: [
     {
@@ -35,6 +35,14 @@ export const giftData = {
     {
       src: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759353255/a_ujqhcp.png",
       caption: "Festejando logros",
+    },
+    {
+      src: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759415801/image_ifvwuq.png",
+      caption: "Un día especial",
+    },
+    {
+      src: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759415509/05-15_dia-internacional-de-las-familias_parque_m_i8fsys.jpg",
+      caption: "Recuerdos en familia",
     },
   ],
   dedications: <ChildDedication[]>[
@@ -70,12 +78,23 @@ export const giftData = {
       title: "Tus 50 🎉",
       description: "Una fiesta inolvidable.",
     },
+    {
+      year: "2024",
+      title: "Viaje a Mendoza",
+      description: "Un momento único recorriendo viñedos juntos.",
+      image: "https://res.cloudinary.com/dfschbyq2/image/upload/v1759416012/bodegas-gratis-1-1024x576_iglpwd.jpg",
+    },
+    {
+      year: "2025",
+      title: "Graduación de Ana",
+      description: "Celebrando un logro muy especial.",
+    },
   ],
   closing: {
     text: "Sos lo mejor que nos pasó. Gracias por tanto amor. ¡Feliz día!",
     signature: "Con amor, tus hijos",
   },
   bgMusic: {
-    url: "https://res.cloudinary.com/dfschbyq2/video/upload/v1759352665/Enredados_-_Veo_en_ti_la_luz_Letra_g78sjb.mp3",
+    url: "https://res.cloudinary.com/dfschbyq2/video/upload/v1759417518/Robbie_Williams_-_Angels_Lyrics_rhmf0a.mp3",
   },
 };
